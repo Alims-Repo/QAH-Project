@@ -1,0 +1,11 @@
+first_name;last_name;email;telephone;password;newsletter
+Dannel;Newiss;dnewiss0@usatoday.com;879-803-5463;bR4Dv)>>GS6rqayT;true
+Nariko;Baillie;nbaillie1@archive.org;328-888-2948;tF2O>V\y9qc#B;true
+Herve;Iddy;hiddy2@arizona.edu;266-116-7815;xR4$NZ@_=S@n2Q~P;true
+Reba;Cushe;rcushe3@ted.com;217-209-9264;"aM0?""#<2>TEs";false
+Worden;Goodin;wgoodin4@odnoklassniki.ru;884-218-3298;oQ4&/5vSLDNk?;true
+Basilio;Allin;ballin5@trellian.com;411-654-1613;iB2sR+>'i_z~;true
+Cathie;Deare;cdeare6@discovery.com;728-990-7946;tW9hfVlbkuD;false
+Lona;Sirette;lsirette7@weibo.com;769-553-9035;aF15Pj)u{Y;false
+Cesaro;Marusyak;cmarusyak8@vinaora.com;485-668-6525;lE3m!0vgK;false
+Wilona;Spittle;wspittle9@npr.org;246-265-8581;nX7=WeYW_|gF/}P#;false

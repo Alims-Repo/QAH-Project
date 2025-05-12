@@ -1,0 +1,4 @@
+.idea
+.pytest_cache
+screenshot
+utils/db_creds.json
