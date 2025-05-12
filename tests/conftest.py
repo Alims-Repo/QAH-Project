@@ -14,7 +14,7 @@ def driver():
 
 def login(driver:WebDriver):
     page = LoginPage(driver)
-    page.type_email('dnewiss0@usatoday.com')
+    page.type_email('sample@test.com')
     page.type_password('bR4Dv)>>GS6rqayT')
     page.click_login()
     return driver

@@ -16,7 +16,7 @@ def test_login(driver:WebDriver):
     return driver
 
 
-products_data = read_csv('test_data\Products_data.csv')
+products_data = read_csv('test_data/Products_data.csv')
 
 @pytest.mark.skip
 @pytest.mark.parametrize("data", products_data)
