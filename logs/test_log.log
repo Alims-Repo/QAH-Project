@@ -1,7 +1,0 @@
-2025-05-12 23:03:56 [INFO] Integration testcase to login then go to search page then search a product and add to cart being executed
-2025-05-12 23:03:58 [INFO] Search object initialized
-2025-05-12 23:03:58 [INFO] typing keywords to search field and clicking enter button test
-2025-05-12 23:03:59 [INFO] Home Page instance created
-2025-05-12 23:04:00 [INFO] Home page search bar type function being executed
-2025-05-12 23:04:00 [INFO] Home page search button click is executed
-2025-05-12 23:04:01 [INFO] fetch products title from the cards and return products list being executed
